@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartCutScene.unity
+    guid: 31cf3d220d9870345a1aeef5efa1079d
+  - enabled: 1
+    path: Assets/Scenes/TheHub.unity
+    guid: 754a8b249c5a6e641944da965fb559d0
+  - enabled: 1
+    path: Assets/Scenes/JumpRalicLevel.unity
+    guid: cf489fc8362e97149b281ee550470d32
+  - enabled: 1
+    path: Assets/Scenes/PowerSmashLevel.unity
+    guid: abcc2216836f0664d883abdadcc0bd9d
+  - enabled: 1
+    path: Assets/Scenes/SizeRalicLevel.unity
+    guid: b8afbf6816f1c894f9e31c232121bb5c
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: a5135de5a4707934499f43ff09db9bd8
+  m_configObjects: {}

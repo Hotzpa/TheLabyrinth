@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5733764378139538484
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5733764378139538486}
+  - component: {fileID: 5733764378139538487}
+  m_Layer: 0
+  m_Name: TextManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5733764378139538486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5733764378139538484}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 340.1007, y: -33.817886, z: -69.231186}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5733764378139538487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5733764378139538484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aedcc8a07e2594e439285c93f2ab3bc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Button: {fileID: 0}
+  myText: {fileID: 0}
+  Script:
+  - 0
+  - 'Friend: Wakey wakey!'
+  - 'Player: Wow! What happend??'
+  - 'Frind: Hey, calm down'
+  - 'Frind: You just fell asleep.'
+  - 'Player: It felt so real!'
+  - 'Player: I was jumping...'
+  - 'Player: ...and smashing to the ground...'
+  - 'Player: ...I even become big or small on will!'
+  - 'Frind: Sounds awesome!'
+  - 'Player: And I was a sphere!'
+  - 'Frind: Yuck!'
+  - 'Player: Yuck???'
+  - 'Frind: I mean '
+  - 'Frind: There is nothing wrong with that'
+  - 'Frind: But that is not who we are.'
+  - 'Frind: Sure the Spheres are the best country in the world '
+  - 'Player: Exactly!'
+  - 'Frind: But they are also Mentaly weak'
+  - 'Frind: and ignorant.'
+  - Frind:Thay live so far away, safe
+  - Frind:Thay forgot the difference
+  - 'Frind: between right and wrong.'
+  - 'Player: Well you are not wrong'
+  - 'Player: But they are still cool!'
+  - 'Frind: That''s ok'
+  - 'Frind: just dont ever forget where you come from...'
+  - 'Frind: and'
+  - 'Frind: who you are'
